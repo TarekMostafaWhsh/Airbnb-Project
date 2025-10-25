@@ -41,6 +41,5 @@ The original dataset is stored on Google Sheets and can be accessed here:
 2. Visit the Tableau Public link to interact with the dashboard.  
 3. Clone this repository to see project documentation and notes.  
 
-```bash
-git clone https://github.com/TarekMostafaWhsh/Your-Repository-Name.git
+
 
